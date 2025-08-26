@@ -1,2 +1,2 @@
-# Starter-files
-starter files.
+# order summary component
+order summary component.
